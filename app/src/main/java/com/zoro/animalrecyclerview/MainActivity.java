@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         animalList.add("Bear");
         animalList.add("Frog");
         animalList.add("Rat");
-        animalList.add("Crocodile");
+        animalList.add("Crocodile
         animalList.add("Ant");
         animalList.add("Monkey");
         animalList.add("snake");
